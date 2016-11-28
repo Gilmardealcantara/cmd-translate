@@ -1,8 +1,8 @@
 # Dictonary en-pr to cmd linux.
 ## Dependences
 install dict 
-	apt-get install dictd 
 	
+	apt-get install dictd 	
 	apt-get install dict-freedict-eng-por
 
 # tutorial
