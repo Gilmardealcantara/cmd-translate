@@ -1,4 +1,5 @@
 apt-get install dictd 
+apt-get install dict 
 /etc/init.d/dictd start 
 apt-get install dict-freedict-eng-por 
 /etc/init.d/dictd restart 
